@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "spotify-web-api-node": "^5.0.2"
+  },
+  "scripts": {
+    "auth": "node spotify-create-auth.js",
+    "generate-token": "node spotify-gen-access-token.js"
+  }
+}
